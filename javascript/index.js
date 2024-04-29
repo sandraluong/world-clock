@@ -42,6 +42,7 @@ function showCityTime(event) {
             "hh:mm:ss [<small>]A[</small>]"
           )}</div>
         </div>
+        <a href="/"> All cities</a>
         `;
 }
 let citySelect = document.querySelector("#city");
